@@ -4,9 +4,3 @@ Web inventaris yang memudahkan pengelolaan data barang di toko atau gudang melal
 fitur Utama dari web:
 Pengelolaan inventaris dan Plotting overview inventaris
 
-team member:
-2702220422 - Aeriel Nathen
-2702291961 - Dave Justin
-2702219723 - Darwin Johan
-2702235840 - Gilbert Jefferson
-2702272142 - Nicole Alexandra Yauwrentius
